@@ -1,0 +1,2 @@
+# BKFashions-Stock
+Stock Inventory
